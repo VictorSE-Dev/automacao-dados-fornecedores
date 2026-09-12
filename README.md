@@ -11,8 +11,10 @@ Script em Python para automatizar limpeza e cruzamento de dados de fornecedores
 - Pandas
 
 ## Como executar
+```bash
 pip install pandas
 python limpeza_fornecedores.py
+```
 
 ## Contexto
 Baseado em rotinas reais de automação de dados que desenvolvo no setor de Suprimentos da Celeo Redes Brasil, adaptado com dados fictícios para fins de portfólio
