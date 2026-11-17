@@ -17,4 +17,4 @@ python limpeza_fornecedores.py
 ```
 
 ## Contexto
-Baseado em rotinas reais de automação de dados que desenvolvo no setor de Suprimentos da Celeo Redes Brasil, adaptado com dados fictícios para fins de portfólio
+Baseado em rotinas reais de automação de dados que desenvolvo no setor de Suprimentos, adaptado com dados fictícios para fins de portfólio
